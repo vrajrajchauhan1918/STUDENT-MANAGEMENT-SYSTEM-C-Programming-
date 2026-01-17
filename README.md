@@ -1,12 +1,12 @@
-# 📚 STUDENT MANAGEMENT SYSTEM (C)
+## 📚 STUDENT MANAGEMENT SYSTEM (C)
 
 
 A menu-driven Student Management System built in C using struct, arrays, and functions.
 This project supports complete CRUD operations (Create, Read, Update, Delete) through a simple CLI interface.
 
 
-
-## ⭐ FEATURES:
+<br>
+### ⭐ FEATURES:
 
 
 --> Add a new student record
@@ -24,8 +24,8 @@ This project supports complete CRUD operations (Create, Read, Update, Delete) th
 --> Update student details (name, roll number, CGPA, course IDs)
 
 
-
-## 🛠️ TECH STACK:
+<br>
+### 🛠️ TECH STACK:
 
 
 --> Language: C
@@ -35,24 +35,24 @@ This project supports complete CRUD operations (Create, Read, Update, Delete) th
 --> Input/Output: scanf, printf
 
 
+<br>
+### 🧑‍💻 HOW TO RUN:
 
-## 🧑‍💻 HOW TO RUN:
 
-
-### ⚙️ Compile:
+#### ⚙️ Compile:
 ```
 gcc main.c -o sms
 ```
 
 
-### ⚙️ Run:
+#### ⚙️ Run:
 ```
 ./sms.exe
 ```
 
 
-
-## 📃 MENU PREVIEW:
+<br>
+### 📃 MENU PREVIEW:
 
 ```
 1. Add a student
@@ -66,8 +66,8 @@ gcc main.c -o sms
 ```
 
 
-
-## ✅ CRUD MAPPING:
+<br>
+### ✅ CRUD MAPPING:
 
 
 Create --> Add Student
@@ -79,10 +79,11 @@ Update --> Update Student
 Delete --> Delete Student
 
 
-
-## 🧑‍🦰 AUTHOR:
+<br>
+### 🧑‍🦰 AUTHOR:
 
 
 -->Vrajraj Chauhan
 
 -->Learning C/C++ and building projects to strengthen fundamentals & DSA.
+
