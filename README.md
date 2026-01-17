@@ -1,4 +1,4 @@
-📚 STUDENT MANAGEMENT SYSTEM (C)
+# 📚 STUDENT MANAGEMENT SYSTEM (C)
 
 A menu-driven Student Management System built in C using struct, arrays, and functions.
 This project supports complete CRUD operations (Create, Read, Update, Delete) through a simple CLI interface.
@@ -60,4 +60,5 @@ Delete --> Delete Student
 ## 🧑‍🦰 AUTHOR:
 
 -->Vrajraj Chauhan
+
 -->Learning C/C++ and building projects to strengthen fundamentals & DSA.
