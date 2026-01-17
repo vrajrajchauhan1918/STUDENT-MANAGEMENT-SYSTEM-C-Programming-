@@ -5,7 +5,7 @@ A menu-driven Student Management System built in C using struct, arrays, and fun
 This project supports complete CRUD operations (Create, Read, Update, Delete) through a simple CLI interface.
 
 
-<br>
+
 ## ⭐ FEATURES:
 
 
@@ -25,7 +25,7 @@ This project supports complete CRUD operations (Create, Read, Update, Delete) th
 --> Update student details (name, roll number, CGPA, course IDs)
 
 
-<br>
+
 ## 🛠️ TECH STACK:
 
 
@@ -37,7 +37,7 @@ This project supports complete CRUD operations (Create, Read, Update, Delete) th
 --> Input/Output: scanf, printf
 
 
-<br>
+
 ## 🧑‍💻 HOW TO RUN:
 
 
@@ -54,7 +54,7 @@ gcc main.c -o sms
 ```
 
 
-<br>
+
 ## 📃 MENU PREVIEW:
 
 
@@ -70,7 +70,7 @@ gcc main.c -o sms
 ```
 
 
-<br>
+
 ## ✅ CRUD MAPPING:
 
 
@@ -84,7 +84,7 @@ Update --> Update Student
 Delete --> Delete Student
 
 
-<br>
+
 ## 🧑‍🦰 AUTHOR:
 
 
@@ -92,5 +92,3 @@ Delete --> Delete Student
 -->Vrajraj Chauhan
 
 -->Learning C/C++ and building projects to strengthen fundamentals & DSA.
-
-
